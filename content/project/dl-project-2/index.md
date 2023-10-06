@@ -1,8 +1,9 @@
 ---
-title: Deep Learning Project 1
+title: Deep Learning and Demo Project
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
+  - Demo
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

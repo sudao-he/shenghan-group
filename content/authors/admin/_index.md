@@ -31,9 +31,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Zhang
 highlight_name: true
-first_name: Alice
+first_name: Shenghan
 email: hesudao@ust.hk
 ---
 Shenghan ZHANG  is an Assistant Professor of CIVL at the HKUST. His research interests include Structural Engineering, Earthquake Engineering, Structural Health Monitoring, Fiber Optic Sensing, Structural Analysis.
