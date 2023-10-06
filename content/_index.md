@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Shenghan Group
+      title: <font color=white>Shenghan Group</font>
       image:
         filename: HKUST-logo.png
       cta:
