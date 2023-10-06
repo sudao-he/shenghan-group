@@ -24,6 +24,10 @@ education:
   courses:
     - course: Ph D
       institution: École polytechnique fédérale de Lausanne (EPFL)
+    - course: M.E
+      institution: Tongji University
+    - course: B.E
+      institution: Chongqing University
 superuser: true
 status:
   icon: ☕️
