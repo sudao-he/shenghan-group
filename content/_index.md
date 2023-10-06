@@ -11,11 +11,11 @@ sections:
       image:
         filename: HKUST-logo.png
       cta:
-        label: '**Get Started**'
-        url: https://wowchemy.com/templates/
+        label: '**Find Me**'
+        url: https://www.ce.ust.hk/people/shenghan-zhang-zhangshenghan
       cta_alt:
         label: Ask a question
-        url: https://discord.gg/z8wNYzb
+        url: https://www.ce.ust.hk/people/shenghan-zhang-zhangshenghan
 
       text: |-
         <font color=white>**Our Provision**</font>
