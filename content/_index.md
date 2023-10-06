@@ -18,11 +18,11 @@ sections:
         url: https://discord.gg/z8wNYzb
 
       text: |-
-        **Our Provision**
+        <font color=white>**Our Provision**</font>
 
-        **CIVL**
+        <font color=white>**CIVL**</font>
 
-        Some small notes
+        <font color=white>Some small notes</font>
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
@@ -44,7 +44,7 @@ sections:
               # Use a fun parallax-like fixed background effect on desktop? true/false
               parallax: true
               # Text color (true=light, false=dark, or remove for the dynamic theme color).
-              text_color_light: false
+              text_color_light: True
   - block: about.biography
     id: about
     content:
