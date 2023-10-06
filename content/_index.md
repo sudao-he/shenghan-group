@@ -9,7 +9,7 @@ sections:
     content:
       title: Shenghan Group
       image:
-        filename: hero-academic.png
+        filename: HKUST-logo.png
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
