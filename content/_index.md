@@ -16,12 +16,13 @@ sections:
       cta_alt:
         label: Ask a question
         url: https://discord.gg/z8wNYzb
+
       text: |-
         **Our Provision**
 
         **CIVL**
 
-        Some small notes.
+        Some small notes
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
@@ -29,10 +30,9 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
-        image: hkust4.png
+        gradient_end: '#1976d2'
+        gradient_start: '#004ba0'
         text_color_light: true
-        image_darken: 1
-        
   - block: about.biography
     id: about
     content:
