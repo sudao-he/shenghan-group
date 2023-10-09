@@ -271,11 +271,11 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
+      subtitle: "![path](path.png)"
       text: |-
         If you are interested in any kinds of collaboration, please feel free to contact me.
       # Contact (add or remove contact options as necessary)
-      email: hesudao@ust.hk
+      email: ceshenghan@ust.hk
       phone: 888 888 88 88
       address:
         street: Clear Water Bay, Sai Kung

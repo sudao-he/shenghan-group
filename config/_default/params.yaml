@@ -11,6 +11,8 @@ appearance:
   font: minimal
   font_size: L
 
+
+coordinates: {latitude = "22.335951", longitude = "114.263875"}
 # SEO
 
 marketing:
@@ -24,7 +26,7 @@ marketing:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
-    microsoft_clarity: ''  
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -96,7 +98,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'google'
     api_key: ''
     zoom: 15
 
