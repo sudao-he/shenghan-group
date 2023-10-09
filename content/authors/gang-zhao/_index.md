@@ -1,10 +1,10 @@
 ---
-title: Sudao HE （何苏道）
+title: Gang ZHAO （赵刚）
 role: Postdoc Fellow
 avatar_filename: avatar.jpg
-bio: My research interests include digital twin with incomplete and unreliable data, and its application in fault diagnosis and structural health monitoring.
+bio: My research interests include ***
 interests:
-  - Fitness[_index.md](..%2Fgang-zhao%2F_index.md)
+  - Fitness
   - Basketball
 social:
   - display:
@@ -22,12 +22,12 @@ education:
     - course: B.S
       institution: NUAA
 superuser: False
-user_groups: [Postdoc Fellow, Graduate Student, Administration, Visitors, Alumni]
+user_groups: [Postdoc Fellow]
 status:
   icon: ☕️
-last_name: HE
+last_name: ZHAO
 highlight_name: true
-first_name: Sudao
+first_name: Gang
 email: hesudao@ust.hk
 github: sudao-he
 googlescholar: "https://scholar.google.com/citations?user=3jbGRAYAAAAJ"
