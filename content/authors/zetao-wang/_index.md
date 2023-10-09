@@ -1,8 +1,8 @@
 ---
-title: Sudao HE （何苏道）
-role: Postdoc Fellow
+title: Zetao WANG(王泽涛)
+role: Graduate Student
 avatar_filename: avatar.jpg
-bio: My research interests include digital twin with incomplete and unreliable data, and its application in fault diagnosis and structural health monitoring.
+bio: My research interests include ***
 interests:
   - Fitness
   - Basketball
@@ -22,12 +22,12 @@ education:
     - course: B.S
       institution: NUAA
 superuser: False
-user_groups: [Postdoc Fellow]
+user_groups: [Graduate Student]
 status:
   icon: ☕️
-last_name: HE
+last_name: WANG
 highlight_name: true
-first_name: Sudao
+first_name: Zetao
 email: hesudao@ust.hk
 github: sudao-he
 googlescholar: "https://scholar.google.com/citations?user=3jbGRAYAAAAJ"

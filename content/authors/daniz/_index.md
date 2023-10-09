@@ -1,8 +1,8 @@
 ---
-title: Sudao HE （何苏道）
+title: Daniz
 role: Postdoc Fellow
 avatar_filename: avatar.jpg
-bio: My research interests include digital twin with incomplete and unreliable data, and its application in fault diagnosis and structural health monitoring.
+bio: My research interests include ***
 interests:
   - Fitness
   - Basketball
@@ -25,9 +25,9 @@ superuser: False
 user_groups: [Postdoc Fellow]
 status:
   icon: ☕️
-last_name: HE
+last_name: ZHAO
 highlight_name: true
-first_name: Sudao
+first_name: Daniz
 email: hesudao@ust.hk
 github: sudao-he
 googlescholar: "https://scholar.google.com/citations?user=3jbGRAYAAAAJ"
