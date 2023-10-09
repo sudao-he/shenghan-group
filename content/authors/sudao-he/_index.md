@@ -10,7 +10,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: hesudao@ust.hk
-  - icon: house
+  - icon: igloo
     icon_pack: fab
     link: https://sudao-he.github.io/
   - icon: github
@@ -24,7 +24,7 @@ social:
     link: https://scholar.google.com/citations?user=3jbGRAYAAAAJ
   - icon: orcid
     icon_pack: ai
-    link: 0000-0003-2301-9698
+    link: https://orcid.org/0000-0003-2301-9698
 
 organizations:
   - name: HKUST
