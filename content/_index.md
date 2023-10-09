@@ -89,7 +89,6 @@ sections:
       show_role: true
       # Show user's organizations/affiliations?
       show_organizations: true
----        
   - block: experience
     content:
       title: Experience
