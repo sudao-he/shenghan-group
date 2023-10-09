@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:?subject={hesudao}&body={hesudao@ust.hk}
+    link: mailto:?subject=hesudao&body=hesudao@ust.hk
 
 organizations:
   - name: HKUST
