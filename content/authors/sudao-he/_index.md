@@ -41,9 +41,6 @@ status:
 last_name: HE
 highlight_name: true
 first_name: Sudao
-email: 
-  title: hesudao
-  url: hesudao@ust.hk
 
 ---
 Sudao HE is a Postdoc Fellow of CIVL at the HKUST. His research interests digital twin with incomplete and unreliable data, and its application in fault diagnosis and structural health monitoring.
