@@ -7,12 +7,9 @@ interests:
   - Fitness
   - Basketball
 social:
-  - display:
-      header: False
-      link: https://sudao-he.github.io/
-      label: Homepage
-      icon_pack: fas
-      icon: envelope
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:?subject={hesudao}&body={hesudao@ust.hk}
 
 organizations:
   - name: HKUST

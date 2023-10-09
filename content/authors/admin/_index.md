@@ -12,12 +12,9 @@ interests:
   - Fiber Optic Sensing
   - Structural Analysis.
 social:
-  - display:
-      header: True
-    link: https://www.ce.ust.hk/people/shenghan-zhang-zhangshenghan
-    label: Homepage
-    icon_pack: ai
-    icon: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/#ICONS
+  - icon: envelope
+    icon_pack: fas
+    link: '#contact'
 organizations:
   - name: HKUST
 education:
