@@ -1,6 +1,6 @@
 ---
 title: Sudao HE （何苏道）
-role: Assistant Professor of CIVL
+role: Postdoc Fellow
 avatar_filename: avatar.jpg
 bio: My research interests include digital twin with incomplete and unreliable data, and its application in fault diagnosis and structural health monitoring.
 interests:
@@ -10,7 +10,7 @@ interests:
   - Deep Learning.
 social:
   - display:
-      header: false
+      header: True
     link: https://sudao-he.github.io/
     label: Homepage
     icon_pack: ai
@@ -29,8 +29,13 @@ status:
   icon: ☕️
 last_name: HE
 highlight_name: true
-first_name: Sudao HE
+first_name: Sudao
 email: hesudao@ust.hk
+github: sudao-he
+googlescholar: "https://scholar.google.com/citations?user=3jbGRAYAAAAJ"
+researchgate: "https://www.researchgate.net/profile/Sudao-He"
+linkedin: "Sudao HE"
+orcid: "https://orcid.org/my-orcid?orcid=0000-0003-2301-9698"
 ---
 Sudao HE is a Postdoc Fellow of CIVL at the HKUST. His research interests digital twin with incomplete and unreliable data, and its application in fault diagnosis and structural health monitoring.
 {style="text-align: justify;"}
