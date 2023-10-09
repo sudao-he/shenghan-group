@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
+  theme_day: earth
   theme_night: 1950s
-  font: 1950s
+  font: minimal
   font_size: L
 
 coordinates: {latitude = "22.335951", longitude = "114.263875"}
