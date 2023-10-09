@@ -276,7 +276,7 @@ sections:
         If you are interested in any kinds of collaboration, please feel free to contact me.
       # Contact (add or remove contact options as necessary)
       email: ceshenghan@ust.hk
-      phone: 888 888 88 88
+      phone: (+852) 2358 5973
       address:
         street: Clear Water Bay, Sai Kung
         city: New Territories
