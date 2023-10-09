@@ -100,7 +100,7 @@ features:
   map:
     provider: 'google'
     engine: 1
-    api_key: ""
+    api_key: "AIzaSyA_64TaKuredGVVU62oVKyqHE_wgmN4O_g"
     zoom: 15
 
 # Extensions
