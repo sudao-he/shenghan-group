@@ -9,7 +9,22 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:?subject=hesudao&body=hesudao@ust.hk
+    link: hesudao@ust.hk
+  - icon: house
+    icon_pack: fab
+    link: https://sudao-he.github.io/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sudao-he
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Sudao-He
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=3jbGRAYAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: 0000-0003-2301-9698
 
 organizations:
   - name: HKUST
