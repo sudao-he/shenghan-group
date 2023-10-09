@@ -13,7 +13,7 @@ interests:
   - Structural Analysis.
 social:
   - display:
-      header: false
+      header: True
     link: https://www.ce.ust.hk/people/shenghan-zhang-zhangshenghan
     label: Homepage
     icon_pack: ai
