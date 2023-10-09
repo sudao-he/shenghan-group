@@ -8,7 +8,7 @@
 appearance:
   theme_day: 1950s
   theme_night: 1950s
-  font: minimal
+  font: 1950s
   font_size: L
 
 coordinates: {latitude = "22.335951", longitude = "114.263875"}
