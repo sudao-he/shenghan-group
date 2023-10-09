@@ -9,10 +9,11 @@ interests:
 social:
   - display:
       header: True
-    link: https://sudao-he.github.io/
-    label: Homepage
-    icon_pack: ai
-    icon: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/#ICONS
+      link: https://sudao-he.github.io/
+      label: Homepage
+      icon_pack: fas
+      icon: envelope
+
 organizations:
   - name: HKUST
 education:
