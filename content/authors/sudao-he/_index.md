@@ -29,8 +29,8 @@ last_name: HE
 highlight_name: true
 first_name: Sudao
 email: 
-  - title: hesudao
-  - url: hesudao@ust.hk
+  title: hesudao
+  url: hesudao@ust.hk
 github: sudao-he
 googlescholar: "https://scholar.google.com/citations?user=3jbGRAYAAAAJ"
 researchgate: "https://www.researchgate.net/profile/Sudao-He"
