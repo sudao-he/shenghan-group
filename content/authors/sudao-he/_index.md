@@ -4,6 +4,8 @@ role: Postdoc Fellow
 avatar_filename: avatar.jpg
 bio: My research interests include digital twin with incomplete and unreliable data, and its application in fault diagnosis and structural health monitoring.
 interests:
+  - Machine Learning  
+
   - Fitness
   - Basketball
 social:
